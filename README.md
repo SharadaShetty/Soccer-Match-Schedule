@@ -27,7 +27,7 @@ A web application to display upcoming soccer matches on a selected date using a 
 
    ```bash
    git clone https://github.com/yourusername/soccer-matches.git
-   cd soccer-matches
+   cd Soccer-Matches-Schedule
 2. Install backend dependencies:
 
    ```bash
@@ -52,13 +52,12 @@ A web application to display upcoming soccer matches on a selected date using a 
 [Free Live Football Data API](https://rapidapi.com/free-live-football-data/api/free-api-live-football-data)
 
 ## Project Structure
-
-.
-├── server.js           # Backend server code
-├── index.html          # Frontend HTML file
-├── package.json        # Node.js dependencies and scripts
-├── package-lock.json   # Locked versions of dependencies for consistent installs
-└── README.md           # This file
+.  
+├── server.js               # Backend server code  
+├── index.html              # Frontend HTML file  
+├── package.json            # Node.js dependencies and scripts  
+├── package-lock.json       # Locked versions of dependencies for consistent installs  
+└── README.md               # This file  
 
 ## Notes
 
@@ -67,5 +66,5 @@ A web application to display upcoming soccer matches on a selected date using a 
 - Match times are displayed in your local timezone.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
 Developer: Sharada Shetty
