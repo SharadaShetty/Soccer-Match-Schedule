@@ -49,7 +49,7 @@ A web application to display upcoming soccer matches on a selected date using a 
 
 ## API Used
 
-[Free Live Football Data API](https://rapidapi.com/free-live-football-data/api/free-api-live-football-data)
+[Free API Live Football Data](https://rapidapi.com/Creativesdev/api/free-api-live-football-data)
 
 ## Project Structure
 .  
