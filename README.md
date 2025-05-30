@@ -7,7 +7,11 @@ A web application to display upcoming soccer matches on a selected date using a 
 - Select a date and view soccer matches scheduled on that day.
 - Match details include competing teams and match start time (with timezone).
 - Responsive and user-friendly frontend.
-- Node.js backend that fetches match data from the external API and formats it.
+- Node.js backend that fetches match data from the external API and formats it.  
+
+
+  <img width="1280" alt="Screenshot 2025-05-31 at 05 20 35" src="https://github.com/user-attachments/assets/07908124-5651-4a31-adb5-68feb1753987" />
+
 
 ## Technologies Used
 
