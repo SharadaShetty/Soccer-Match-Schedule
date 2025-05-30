@@ -39,7 +39,7 @@ A web application to display upcoming soccer matches on a selected date using a 
       'x-rapidapi-key': 'YOUR_RAPIDAPI_KEY'  // Replace with your API key
     }
 
-###Running the Application
+### Running the Application
 
 1. Start the backend server:
     ```bash
@@ -47,11 +47,11 @@ A web application to display upcoming soccer matches on a selected date using a 
 2. Open the index.html file in your browser (no server needed for frontend).
 3. Select a date and get the soccer matches.
 
-##API Used
+## API Used
 
 [Free Live Football Data API](https://rapidapi.com/free-live-football-data/api/free-api-live-football-data)
 
-##Project Structure
+## Project Structure
 
 .
 ├── server.js           # Backend server code
@@ -60,12 +60,12 @@ A web application to display upcoming soccer matches on a selected date using a 
 ├── package-lock.json   # Locked versions of dependencies for consistent installs
 └── README.md           # This file
 
-##Notes
+## Notes
 
 - The backend expects the date query parameter in yyyymmdd format.
 - The API key is required and should be kept private.
 - Match times are displayed in your local timezone.
 
-##License
+## License
 This project is licensed under the MIT License.
 Developer: Sharada Shetty
